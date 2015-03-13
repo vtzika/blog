@@ -1,4 +1,4 @@
-# blog
+# Blog
 
 ----------------------------------------------------------------------
 This project is consisted of a home page with all the posts ordered by date and the detailed page with the post and the comments. An API with Get requests to retrieve the blog posts and the comments and Post requests to post a post or a comment is available.
