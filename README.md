@@ -1,11 +1,12 @@
-# Blog
+# Blog API
 
 ----------------------------------------------------------------------
-This project is consisted of a home page with all the posts ordered by date and the detailed page with the post and the comments. An API with Get requests to retrieve the blog posts and the comments and Post requests to post a post or a comment is available.
+This project is consisted of an API with Get requests to retrieve the blog posts and the comments and Post requests to post a post or a comment is available.
 
 ### Instruction:
 
-1. We are using the build in php server.
+1. git clone https://github.com/vtzika/blogAPI.git
+2. We are using the build in php server.
 	a. cd to your project
 	b. php -S localhost:8000
 
